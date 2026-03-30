@@ -14,5 +14,5 @@ This project focuses on Object-Oriented Programming (OOP) concepts in TypeScript
 2. Compile and Build: `npm run build`
 
 ##  Links
-- **Live Page**: 
+- **Live Page**: https://ioanatrifoi.github.io/goit-advancedjs-hw-07/
 - **Source Code**: https://github.com/IoanaTrifoi/goit-advancedjs-hw-07
