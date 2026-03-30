@@ -2,7 +2,7 @@
 
 This project focuses on Object-Oriented Programming (OOP) concepts in TypeScript, including access modifiers, inheritance, interfaces, and abstract classes.
 
-## 🛠️ Tasks Overview
+## Tasks Overview
 
 - **Task 1**: Shorthand class initialization.
 - **Task 2**: Access modifiers (`private`, `protected`, `public`) and class inheritance.
